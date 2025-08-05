@@ -36,6 +36,9 @@ This series includes 11 in-depth modules designed to guide data professionals th
 
 ---
 
+## 📽️ Visual Aids
+https://drive.google.com/drive/folders/1hZMkLqOYxsMLwA_WnOerEI8O2tgdRnAI?usp=sharing
+
 ## 👤 Author
 
 **Thato Metsing**  
