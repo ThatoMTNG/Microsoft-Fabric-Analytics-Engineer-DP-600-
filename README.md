@@ -1,5 +1,5 @@
 # Microsoft-Fabric-Analytics-Engineer-DP-600
-A 13-part beginner guide and documentation to the DP-600 certification exam.
+An 11-part beginner guide and documentation to the DP-600 certification exam.
 
 # 📊 Microsoft Fabric: Analytics Engineer Series
 
